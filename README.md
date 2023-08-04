@@ -90,7 +90,12 @@ Ideas:
         <li>Music</li>
         <li>Sound Effects (Menu, Jump, Death, Pickup)</li>
       </ul>
+      <summary>Resources</summary>
+      <ul>
+        <li><a href="https://www.youtube.com/watch?v=z1yRrRQo4aE&ab_channel=MoreBBlakeyyy"/>2D Infinite Runner Unity Tutorial</li>
+      </ul>
     </details>
+    
 2. turn-based adventure game (Undertale, Pokemon, Final Fantasy I)
     <details>
       <summary>Learning goals</summary>
@@ -103,10 +108,6 @@ Ideas:
         <li>Level Design</li>
         <li>Save Files</li>
       </ul>      
-      <summary>Resources</summary>
-      <ul>
-        <li><a href="https://www.youtube.com/watch?v=z1yRrRQo4aE&ab_channel=MoreBBlakeyyy"/>2D Infinite Runner Unity Tutorial</li>
-      </ul>
     </details>
 3. 2D adventure game (Legend of Zelda, Blossom Tales, Hyper Light Drifter, Eastward)
    <details>
