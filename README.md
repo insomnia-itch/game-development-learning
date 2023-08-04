@@ -102,6 +102,10 @@ Ideas:
         <li>Item system</li>
         <li>Level Design</li>
         <li>Save Files</li>
+      </ul>      
+      <summary>Resources</summary>
+      <ul>
+        <li><a href="https://www.youtube.com/watch?v=z1yRrRQo4aE&ab_channel=MoreBBlakeyyy"/>2D Infinite Runner Unity Tutorial</li>
       </ul>
     </details>
 3. 2D adventure game (Legend of Zelda, Blossom Tales, Hyper Light Drifter, Eastward)
